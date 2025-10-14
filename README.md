@@ -1,2 +1,2 @@
 # um760slim
-Debian 13 Kde without bloatware and Almalinux 10
+Minisforum PC UM760 slim. Install Kde without bloatware : Debian 13, Almalinux 10
